@@ -8,3 +8,7 @@
 
 [![jhon5103](https://github-readme-stats.vercel.app/api/top-langs/?username=jhon5103&hide=html&layout=compact=true&theme=Dark)](https://github.com/jhon5103/)
 
+## Sobre mim
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jhon5103/)](https://github.com/jhon5103/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonata-gon%C3%A7alves-antunes-94b23b144/)](https://www.linkedin.com/in/jhonata-gon%C3%A7alves-antunes-94b23b144/)
+
