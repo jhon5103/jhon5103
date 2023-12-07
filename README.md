@@ -8,7 +8,7 @@
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=jhon5103&show_icons=true&theme=tokyonight)
 
-[![jhon5103](https://github-readme-stats.vercel.app/api/top-langs/?username=jhon5103&hide=html&layout=compact=true&theme=dark)](https://github.com/jhon5103/)
+[![jhon5103](https://github-readme-stats.vercel.app/api/top-langs/?username=jhon5103&hide=html&layout=compact&theme=dark)](https://github.com/jhon5103/)
 
 <h1>Linguagens e Ferramentas</h1>
 <code>
