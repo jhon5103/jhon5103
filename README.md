@@ -4,8 +4,6 @@
 
  <p>:books: Atualmente estou estudando front-end. </p>
 
- <p>:outbox_tray: Objetivos 2022: Crescer e aprender mais. </p>
-
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=jhon5103&show_icons=true&theme=dracula)
 
 [![jhon5103](https://github-readme-stats.vercel.app/api/top-langs/?username=jhon5103&hide=html&layout=compact&theme=dark)](https://github.com/jhon5103/)
